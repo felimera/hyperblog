@@ -1,2 +1,3 @@
 Este es un archivo de prueba 
 Del curso de git
+Informacion de este archivo sera continuamente modificado para las pruebas.
